@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookSearch</string>
+    <string name="textfield">Enter Book Type</string>
+    <string name="search">Search!</string>
+</resources>
